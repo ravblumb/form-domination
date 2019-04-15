@@ -1,8 +1,9 @@
 <html>
 <body>
 <table>
-<tr><th>First Name</th></tr>
-<tr><td><input type="text" name="First1"></td></tr>
+<tr><th>First Name</th><th>Last Name</th></tr>
+<tr><td><input type="text" name="First1"></td><td><input type="text" name="Last1"></td></tr>
+<tr><td><input type="text" name="First2"></td><td><input type="text" name="Last2"></td></tr>
 </table>
 </body>
 </html>
